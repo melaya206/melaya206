@@ -1,6 +1,2 @@
 - 👋 Hi, I’m @melaya206
-- 👀 I’m interested in travel, hiking, snowboarding, concerts, video games
-- 🌱 I’m currently learning Informatics: Data Science and Software Developement @ UW Seattle!
 - 📫 melaya.lamadrid@gmail.com | linkedin.com/in/melaya
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: my favorite minecraft block is scaffolding
